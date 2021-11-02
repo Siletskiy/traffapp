@@ -20,7 +20,10 @@
  //*нужно использовать только один атрибут "planB"
   "url":"https://larcenybua.xyz/",   
    
+   
+   //Administation
    //OneSignal id and Appsfflyer Id
-   "os_id":"ef19afc1-6f4a-4b68-a3b2-a7d9cc5bcb98",
-   "af_id":"2rJ6czRLUGWm6kyReEYfjH"
+   "refferparam":"utm_campaign" 
+   "os_id":"4f862f47-8b79-4b91-9168-72763557402c",
+   "af_id":"p9TwJSAjFewwkuY9gzcgRQ"
 }
