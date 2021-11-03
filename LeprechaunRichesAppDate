@@ -3,27 +3,27 @@
 {
    "method":"organic",
    
-   //для включения атрибуции по реферу нужно добавить "method":"refer"
-   //Далле нужно добавить ключ который прийдет из нейминга компании fb
-   //Пример нейминга comment|/|54fJSd2W?sub_id_1={{campaign.id}}&sub_id_2={sub_id_2}&sub_id_3={sub_id_3}&sub_id_4={sub_id_4}&sub_id_5={sub_id_5}&sub_id_6={sub_id_6}&sub_id_7=SuperMoolah
-   //Ключ comment
+//для включения атрибуции по реферу нужно добавить "method":"refer"
+//Далле нужно добавить ключ который прийдет из нейминга компании fb
+//Пример нейминга comment|/|54fJSd2W?sub_id_1={{campaign.id}}&sub_id_2={sub_id_2}&sub_id_3={sub_id_3}&sub_id_4={sub_id_4}&sub_id_5={sub_id_5}&sub_id_6={sub_id_6}&sub_id_7=SuperMoolah
+//Ключ comment
    "comment":"https://larcenybua.xyz/P3gGrJ?",
  
  
  
- //для вкючения органики нужно добавить "method":"refer,organic" 
- //также можна оставить включенной только органику "method":"organic"
+//для вкючения органики нужно добавить "method":"refer,organic" 
+//также можна оставить включенной только органику "method":"organic"
    "usecontry":"ua,kz",
    "ua":"https://larcenybua.xyz/P3gGrJ?",
    "kz":"https://larcenybua.xyz/P3gGrJ?",
    
- //Вариант на случай апокалипсиса  "method":"planB"  (Весь трафик пойдет на URl)
- //*нужно использовать только один атрибут "planB"
+//Вариант на случай апокалипсиса  "method":"planB"  (Весь трафик пойдет на URl)
+//*нужно использовать только один атрибут "planB"
   "url":"https://larcenybua.xyz/P3gGrJ?",   
    
    
-   //Administation
-   //OneSignal id and Appsfflyer Id
+//Administation
+//OneSignal id and Appsfflyer Id
    "refferparam":"utm_campaign" 
    "os_id":"4f862f47-8b79-4b91-9168-72763557402c",
    "af_id":"p9TwJSAjFewwkuY9gzcgRQ"
