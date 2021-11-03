@@ -1,7 +1,7 @@
 {
 "comment":"Важно придерживаться синтаксиса. Проверка json на валидность https://tools.icoder.uz/json-validator.php",
 
-    "method":"refer",
+    "method":"refer,organic",
   
   
 "comment2":"для включения атрибуции по реферу нужно добавить 'method':'refer' " ,
