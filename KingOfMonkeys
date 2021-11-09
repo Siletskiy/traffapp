@@ -2,7 +2,24 @@
 "comment":"Важно придерживаться синтаксиса. Проверка json на валидность https://tools.icoder.uz/json-validator.php",
 "comment01":"Если постоянно открываеться заглушка возможно есть ошибки в json",
 
-    "method":"refer",
+    "method":"jsonencode",
+  
+  
+  
+"comment_001":""для включения атрибуции по реферу нужно добавить 'method':'fullutm' можна и 'method':'fullutm,organic'  " ,
+"comment_002":"Трафик идет на линк к которому полностью добавляеться utm reffer",  
+  
+  "urlfulutm":"https://larcenybua.xyz/P3gGrJ?",
+  
+  
+  
+  
+"comment_003":""деколируем json 'method':'jsonencode' можна и 'method':'jsonencode,organic'  " ,
+"comment_004":"Трафик идет на линк к которому полностью добавляеться utm reffer",  
+  
+  "urlfulutm":"https://larcenybua.xyz/P3gGrJ?",
+  
+  
   
   
   
