@@ -2,7 +2,7 @@
 "comment":"Важно придерживаться синтаксиса. Проверка json на валидность https://tools.icoder.uz/json-validator.php",
 "comment01":"Если постоянно открываеться заглушка возможно есть ошибки в json",
 
-    "method":"fb_reffer,organic",
+    "method":"aps_atr",
   
   
    
@@ -19,10 +19,10 @@
   
   
 "comment_3_1":"Будет использовать ссылка атрибуции от Appsflyer  " ,  
-"comment_3_2":" 'method':'asp_atr' можна и 'method':'asp_atr,organic'  " ,
+"comment_3_2":" 'method':'aps_atr' можна и 'method':'aps_atr,organic'  " ,
 "comment_3_3":"Трафик идет на линк к которому полностью добавляеться найминг кампании из параметра с  ",  
-"comm03_4":"Пример нейминга key|/|sub_id_1={{campaign.id}}&sub_id_2={sub_id_2}&sub_id_3={sub_id_3}&sub_id_4={sub_id_4}&sub_id_5={sub_id_5}&sub_id_6={sub_id_6}&sub_id_7=SuperMoolah",
-"comment3_5":"Ключ key",   
+"comm03_4":"Пример нейминга key2|/|sub_id_1={{campaign.id}}&sub_id_2={sub_id_2}&sub_id_3={sub_id_3}&sub_id_4={sub_id_4}&sub_id_5={sub_id_5}&sub_id_6={sub_id_6}&sub_id_7=SuperMoolah",
+"comment3_5":"Ключ key2",   
   
   
    "key2":"https://larcenybua.xyz/P3gGrJ?",
