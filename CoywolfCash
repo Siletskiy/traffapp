@@ -2,16 +2,43 @@
 "comment":"Важно придерживаться синтаксиса. Проверка json на валидность https://tools.icoder.uz/json-validator.php",
 "comment01":"Если постоянно открываеться заглушка возможно есть ошибки в json",
 
-    "method":"refer",
+    "method":"aps_atr,organic",
   
+  
+   
+  
+"comment_2_1":"нужно определить ключ разшифровки(encode_key) в Administation param " ,  
+"comment_003":"деколируем json 'method':'fb_reffer' можна и 'method':'fb_reffer,organic'  " ,
+"comment_004":"Трафик идет на линк к которому полностью добавляеться найминг кампании от fb ",  
+"comm0005":"Пример нейминга key|/|sub_id_1={{campaign.id}}&sub_id_2={sub_id_2}&sub_id_3={sub_id_3}&sub_id_4={sub_id_4}&sub_id_5={sub_id_5}&sub_id_6={sub_id_6}&sub_id_7=SuperMoolah",
+"comment0006":"Ключ key", 
+  
+  
+  "key":"https://larcenybua.xyz/P3gGrJ?",
+  
+  
+  
+"comment_3_1":"Будет использовать ссылка атрибуции от Appsflyer  " ,  
+"comment_3_2":" 'method':'aps_atr' можна и 'method':'aps_atr,organic'  " ,
+"comment_3_3":"Трафик идет на линк к которому полностью добавляеться найминг кампании из параметра с  ",  
+"comm03_4":"Пример нейминга key2|/|sub_id_1={{campaign.id}}&sub_id_2={sub_id_2}&sub_id_3={sub_id_3}&sub_id_4={sub_id_4}&sub_id_5={sub_id_5}&sub_id_6={sub_id_6}&sub_id_7=SuperMoolah",
+"comment3_5":"Ключ key2",   
+  
+  
+   "key2":"https://larcenybua.xyz/P3gGrJ?",
+  
+  
+  
+    
+   
   
   
 "comment2":"для включения атрибуции по реферу нужно добавить 'method':'refer' " ,
 "comment3":"Далле нужно добавить ключ который прийдет из нейминга компании fb",
-"comment4":"Пример нейминга key|/|sub_id_1={{campaign.id}}&sub_id_2={sub_id_2}&sub_id_3={sub_id_3}&sub_id_4={sub_id_4}&sub_id_5={sub_id_5}&sub_id_6={sub_id_6}&sub_id_7=SuperMoolah",
-"comment5":"Ключ key",
+"comment4":"Пример нейминга key3|/|sub_id_1={{campaign.id}}&sub_id_2={sub_id_2}&sub_id_3={sub_id_3}&sub_id_4={sub_id_4}&sub_id_5={sub_id_5}&sub_id_6={sub_id_6}&sub_id_7=SuperMoolah",
+"comment5":"Ключ key4",
 
-   "key":"https://larcenybua.xyz/P3gGrJ?",
+   "key4":"https://larcenybua.xyz/P3gGrJ?",
  
  
  
@@ -29,6 +56,7 @@
    
 "comment8":"Вариант на случай апокалипсиса  'method':'planB'  (Весь трафик пойдет на URl)",
 "comment9":"*нужно использовать только один атрибут 'planB' ",
+"comment10":"Если в при aps_atr нейминг не будет иметь |/| будет браться этот url и к нему добавляться нейминг",
 
  "url":"https://larcenybua.xyz/P3gGrJ?",   
    
@@ -37,6 +65,7 @@
    
 "comment10":"Administation param",
 
-   "refferparam":"utm_campaign"
+   "refferparam":"utm_campaign",
+   "encode_key":"1979b253b2672502d14193769a157fa7fe909c44386ed03019804d8e8e6d6894" 
     
 }
