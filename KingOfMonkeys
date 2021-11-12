@@ -29,20 +29,7 @@
   
   
   
-  
-  
-  
-"comment4_1":"для включения Onelink нужно добавить 'method':'one_link'  можна и 'method':'one_link,organic' " ,
-"commennt4_2":"Далле нужно добавить ключ который прийдет из нейминга компании fb",
-"comment4_3":"Пример нейминга key3|/|sub_id_1={{campaign.id}}&sub_id_2={sub_id_2}&sub_id_3={sub_id_3}&sub_id_4={sub_id_4}&sub_id_5={sub_id_5}&sub_id_6={sub_id_6}&sub_id_7=SuperMoolah",
-"comment4_4":"Ключ key3",
-
-
-   "key3":"https://larcenybua.xyz/P3gGrJ?",
-  
-  
-  
-  
+    
   
   
   
