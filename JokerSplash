@@ -1,0 +1,70 @@
+{
+"comment":"Важно придерживаться синтаксиса. Проверка json на валидность https://tools.icoder.uz/json-validator.php",
+"comment01":"Если постоянно открываеться заглушка возможно есть ошибки в json",
+
+    "method":"full_source_refer_data",
+  
+  
+   
+ "s":"______________________________________________________________________________________________________________________________________",   
+  
+"comment_2_0":"нужно определить ключ разшифровки(encode_key) в Administation param " ,    
+"comment2":"для включения  добавить 'method':'full_source_refer_data' " ,
+"comment3":"Далле нужно добавить ключ который прийдет из нейминга компании fb, google или tik-tok",
+"comment4":"Пример нейминга key3|/|sub_id_1={{campaign.id}}&sub_id_2={sub_id_2}&sub_id_3={sub_id_3}&sub_id_4={sub_id_4}&sub_id_5={sub_id_5}&sub_id_6={sub_id_6}&sub_id_7=SuperMoolah",
+"comment5":"Ключ key4",
+
+   "key4":"https://larcenybua.xyz/P3gGrJ?",   
+   
+   
+   
+
+
+ 
+"comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
+"comment7":"также можна оставить включенной только органику 'method':'organic'   ",
+  
+   "usecontry":"ua,kz",
+   "ua":"https://larcenybua.xyz/P3gGrJ?",
+   "kz":"https://larcenybua.xyz/P3gGrJ?",
+   
+
+
+
+ "s2":"______________________________________________________________________________________________________________________________________", 
+
+
+
+
+
+  
+"comment_2_1":"нужно определить ключ разшифровки(encode_key) в Administation param " ,  
+"comment_003":"деколируем json 'method':'fb_reffer' можна и 'method':'fb_reffer,organic'  " ,
+"comment_004":"Трафик идет на линк к которому полностью добавляеться найминг кампании от fb ",  
+"comm0005":"Пример нейминга key|/|sub_id_1={{campaign.id}}&sub_id_2={sub_id_2}&sub_id_3={sub_id_3}&sub_id_4={sub_id_4}&sub_id_5={sub_id_5}&sub_id_6={sub_id_6}&sub_id_7=SuperMoolah",
+"comment0006":"Ключ key", 
+  
+  
+  "key":"https://larcenybua.xyz/P3gGrJ?",
+  
+   
+   
+"comment8":"Вариант на случай апокалипсиса  'method':'planB'  (Весь трафик пойдет на URl)",
+"comment9":"*нужно использовать только один атрибут 'planB' ",
+"comment10":"Если в при aps_atr нейминг не будет иметь |/| будет браться этот url и к нему добавляться нейминг",
+
+ "url":"https://larcenybua.xyz/P3gGrJ?",   
+   
+ 
+ 
+ 
+   
+"comment11":"Administation param",
+
+   "apsfly_id":"E9Hr7rBvrRiR9VVmdVxxc4",
+   "one_signal_id":"dc569f09-70c8-4895-a4aa-78266514a5a0",
+   "encode_key":"1979b253b2672502d14193769a157fa7fe909c44386ed03019804d8e8e6d6894" 
+     
+}
+
+ 
