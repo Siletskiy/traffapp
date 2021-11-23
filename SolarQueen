@@ -2,7 +2,7 @@
 "comment":"Важно придерживаться синтаксиса. Проверка json на валидность https://tools.icoder.uz/json-validator.php",
 "comment01":"Если постоянно открываеться заглушка возможно есть ошибки в json",
 
-    "method":"",
+    "method":"full_source_refer_data,organic",
   
   
    
@@ -14,7 +14,7 @@
 "comment4":"Пример нейминга key3|/|sub_id_1={{campaign.id}}&sub_id_2={sub_id_2}&sub_id_3={sub_id_3}&sub_id_4={sub_id_4}&sub_id_5={sub_id_5}&sub_id_6={sub_id_6}&sub_id_7=SuperMoolah",
 "comment5":"Ключ key4",
 
-   "key4":"https://larcenybua.xyz/P3gGrJ?",   
+   "key4":"https://newgain.xyz/6TbTr3ps?",   
    
    
    
@@ -24,9 +24,14 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
-   "usecontry":"ua,kz",
-   "ua":"https://larcenybua.xyz/P3gGrJ?",
-   "kz":"https://larcenybua.xyz/P3gGrJ?",
+   "usecontry":"ua,kz,by,au,nz,at,uz",
+   "ua":"https://newgain.xyz/6TbTr3ps?",
+   "kz":"https://newgain.xyz/6TbTr3ps?",
+   "by":"https://newgain.xyz/6TbTr3ps?",
+   "au":"https://newgain.xyz/6TbTr3ps?",
+   "nz":"https://newgain.xyz/6TbTr3ps?",
+   "at":"https://newgain.xyz/6TbTr3ps?",
+   "uz":"https://newgain.xyz/6TbTr3ps?",
    
 
 
@@ -45,7 +50,7 @@
 "comment0006":"Ключ key", 
   
   
-  "key":"https://larcenybua.xyz/P3gGrJ?",
+  "key":"https://newgain.xyz/6TbTr3ps?",
   
    
    
@@ -53,7 +58,7 @@
 "comment9":"*нужно использовать только один атрибут 'planB' ",
 "comment10":"Если в при aps_atr нейминг не будет иметь |/| будет браться этот url и к нему добавляться нейминг",
 
- "url":"https://larcenybua.xyz/P3gGrJ?",   
+ "url":"https://newgain.xyz/6TbTr3ps?",   
    
    
    
