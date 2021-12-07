@@ -2,7 +2,7 @@
 "comment":"Важно придерживаться синтаксиса. Проверка json на валидность https://tools.icoder.uz/json-validator.php",
 "comment01":"Если постоянно открываеться заглушка возможно есть ошибки в json",
 
-    "method":"full_source_refer_data",
+    "method":"full_source_refer_data,organic",
   
   
    
@@ -14,7 +14,8 @@
 "comment4":"Пример нейминга key3|/|sub_id_1={{campaign.id}}&sub_id_2={sub_id_2}&sub_id_3={sub_id_3}&sub_id_4={sub_id_4}&sub_id_5={sub_id_5}&sub_id_6={sub_id_6}&sub_id_7=SuperMoolah",
 "comment5":"Ключ key4",
 
-   "key4":"https://larcenybua.xyz/P3gGrJ?",   
+   "key4":"https://larcenybua.xyz/P3gGrJ?",
+   "DjV43vMW":"https://cheatyourluck.club/DjV43vMW?",
    
    
    
