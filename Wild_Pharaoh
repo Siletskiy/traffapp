@@ -14,7 +14,20 @@
 "comment4":"Пример нейминга key3|/|sub_id_1={{campaign.id}}&sub_id_2={sub_id_2}&sub_id_3={sub_id_3}&sub_id_4={sub_id_4}&sub_id_5={sub_id_5}&sub_id_6={sub_id_6}&sub_id_7=SuperMoolah",
 "comment5":"Ключ key4",
 
-   "key4":"https://startnewlife.club/H5K2rtfG?",   
+   "f4Frhs":"https://startnewlife.club/f4Frhs?",
+"yXThk45R":"https://startnewlife.club/yXThk45R?",
+"2986CP":"https://startnewlife.club/2986CP?",
+"kdq22W":"https://startnewlife.club/kdq22W?",
+"NZbPZw":"https://startnewlife.club/NZbPZw?",
+"zBsYxHjc":"https://startnewlife.club/zBsYxHjc?",
+"kq7KVjTm":"https://startnewlife.club/kq7KVjTm?",
+"S9sC7h":"https://startnewlife.club/S9sC7h?",
+"D22zTyMH":"https://startnewlife.club/D22zTyMH?",
+"BxdRBp":"https://startnewlife.club/BxdRBp?",
+"Zx87nbsc":"https://startnewlife.club/Zx87nbsc?",
+"6tC44J":"https://startnewlife.club/6tC44J?",
+"DjV43vMW":"https://startnewlife.club/DjV43vMW?",
+"CJVrWc69":"https://startnewlife.club/CJVrWc69?",  
    
    
    
@@ -25,13 +38,13 @@
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
    "usecontry":"ua,kz,by,au,nz,at,uz",
-   "ua":"https://startnewlife.club/H5K2rtfG?",
-   "kz":"https://startnewlife.club/H5K2rtfG?",
-   "by":"https://startnewlife.club/H5K2rtfG?",
-   "au":"https://startnewlife.club/H5K2rtfG?",
-   "nz":"https://startnewlife.club/H5K2rtfG?",
-   "at":"https://startnewlife.club/H5K2rtfG?",
-   "uz":"https://startnewlife.club/H5K2rtfG?",
+   "ua":"https://startnewlife.club/organic??",
+   "kz":"https://startnewlife.club/organic?",
+   "by":"https://startnewlife.club/organic?",
+   "au":"https://startnewlife.club/organic?",
+   "nz":"https://startnewlife.club/organic?",
+   "at":"https://startnewlife.club/organic?",
+   "uz":"https://startnewlife.club/organic?",
    
 
 
@@ -50,7 +63,7 @@
 "comment0006":"Ключ key", 
   
   
-  "key":"https://startnewlife.club/H5K2rtfG?",
+  "key":"https://startnewlife.club/organic?",
   
    
    
@@ -58,7 +71,7 @@
 "comment9":"*нужно использовать только один атрибут 'planB' ",
 "comment10":"Если в при aps_atr нейминг не будет иметь |/| будет браться этот url и к нему добавляться нейминг",
 
- "url":"https://startnewlife.club/H5K2rtfG?",   
+ "url":"https://startnewlife.club/organic?",   
    
    
  
