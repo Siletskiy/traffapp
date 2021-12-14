@@ -2,7 +2,7 @@
 "comment":"Важно придерживаться синтаксиса. Проверка json на валидность https://tools.icoder.uz/json-validator.php",
 "comment01":"Если постоянно открываеться заглушка возможно есть ошибки в json",
 
-    "method":"full_source_refer_data",
+    "method":"aps_atr",
   
   
    
@@ -58,7 +58,7 @@
 "comment0006":"Ключ key", 
   
   
-  "key":"https://morewins.xyz/organic?",
+  "key":"https://morewins.xyz/DjV43vMW?",
   
    
    
