@@ -14,20 +14,6 @@
 "comment4":"Пример нейминга key4|/|sub_id_1={{campaign.id}}&sub_id_2={sub_id_2}&sub_id_3={sub_id_3}&sub_id_4={sub_id_4}&sub_id_5={sub_id_5}&sub_id_6={sub_id_6}&sub_id_7=SuperMoolah",
 "comment5":"Ключ key4",
 
-   "f4Frhs":"https://morewins.xyz/f4Frhs?",
-"yXThk45R":"https://morewins.xyz/yXThk45R?",
-"2986CP":"https://morewins.xyz/2986CP?",
-"kdq22W":"https://morewins.xyz/kdq22W?",
-"NZbPZw":"https://morewins.xyz/NZbPZw?",
-"zBsYxHjc":"https://morewins.xyz/zBsYxHjc?",
-"kq7KVjTm":"https://morewins.xyz/kq7KVjTm?",
-"S9sC7h":"https://morewins.xyz/S9sC7h?",
-"D22zTyMH":"https://morewins.xyz/D22zTyMH?",
-"BxdRBp":"https://morewins.xyz/BxdRBp?",
-"Zx87nbsc":"https://morewins.xyz/Zx87nbsc?",
-"6tC44J":"https://morewins.xyz/6tC44J?",
-"DjV43vMW":"https://morewins.xyz/DjV43vMW?",
-"CJVrWc69":"https://morewins.xyz/CJVrWc69?", 
    
    
    
@@ -37,7 +23,7 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
-   "usecontry":"ua,kz",
+   "usecontry":"",
    "ua":"https://morewins.xyz/organic?",
    "kz":"https://morewins.xyz/organic?",
    
