@@ -14,8 +14,7 @@
 "comment4":"Пример нейминга key4|/|sub_id_1={{campaign.id}}&sub_id_2={sub_id_2}&sub_id_3={sub_id_3}&sub_id_4={sub_id_4}&sub_id_5={sub_id_5}&sub_id_6={sub_id_6}&sub_id_7=SuperMoolah",
 "comment5":"Ключ key4",
 
-   "key4":"https://luckyinstall.xyz/DjV43vMW?",
-   "DjV43vMW":"https://luckyinstall.xyz/DjV43vMW?",
+   "key4":"",
    
    
    
@@ -25,7 +24,7 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
-   "usecontry":"ua,kz",
+   "usecontry":"",
    "ua":"https://luckyinstall.xyz/DjV43vMW?",
    "kz":"https://luckyinstall.xyz/DjV43vMW?",
    
@@ -46,7 +45,7 @@
 "comment0006":"Ключ key", 
   
   
-  "key":"https://luckyinstall.xyz/DjV43vMW?",
+  "key":"",
   
    
    
@@ -54,7 +53,7 @@
 "comment9":"*нужно использовать только один атрибут 'planB' ",
 "comment10":"Если в при aps_atr нейминг не будет иметь |/| будет браться этот url и к нему добавляться нейминг",
 
- "url":"https://larcenybua.xyz/P3gGrJ?",   
+ "url":"",   
    
    
    
