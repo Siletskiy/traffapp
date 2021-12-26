@@ -1,0 +1,79 @@
+{
+"comment":"Важно придерживаться синтаксиса. Проверка json на валидность https://tools.icoder.uz/json-validator.php",
+"comment01":"Если постоянно открываеться заглушка возможно есть ошибки в json",
+
+    "method":"aps_atr",
+  
+  
+   
+ "s":"______________________________________________________________________________________________________________________________________",   
+  
+"comment_2_0":"нужно определить ключ разшифровки(encode_key) в Administation param " ,    
+"comment2":"для включения  добавить 'method':'full_source_refer_data' " ,
+"comment3":"Далле нужно добавить ключ который прийдет из нейминга компании fb, google или tik-tok",
+"comment4":"Пример нейминга key4|/|sub_id_1={{campaign.id}}&sub_id_2={sub_id_2}&sub_id_3={sub_id_3}&sub_id_4={sub_id_4}&sub_id_5={sub_id_5}&sub_id_6={sub_id_6}&sub_id_7=SuperMoolah",
+"comment5":"Ключ key4",
+
+   "f4Frhs":"https://morewins.xyz/f4Frhs?",
+"yXThk45R":"https://morewins.xyz/yXThk45R?",
+"2986CP":"https://morewins.xyz/2986CP?",
+"kdq22W":"https://morewins.xyz/kdq22W?",
+"NZbPZw":"https://morewins.xyz/NZbPZw?",
+"zBsYxHjc":"https://morewins.xyz/zBsYxHjc?",
+"kq7KVjTm":"https://morewins.xyz/kq7KVjTm?",
+"S9sC7h":"https://morewins.xyz/S9sC7h?",
+"D22zTyMH":"https://morewins.xyz/D22zTyMH?",
+"BxdRBp":"https://morewins.xyz/BxdRBp?",
+"Zx87nbsc":"https://morewins.xyz/Zx87nbsc?",
+"6tC44J":"https://morewins.xyz/6tC44J?",
+"DjV43vMW":"https://morewins.xyz/DjV43vMW?",
+"CJVrWc69":"https://morewins.xyz/CJVrWc69?", 
+   
+   
+   
+
+
+ 
+"comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
+"comment7":"также можна оставить включенной только органику 'method':'organic'   ",
+  
+   "usecontry":"ua,kz",
+   "ua":"https://morewins.xyz/organic?",
+   "kz":"https://morewins.xyz/organic?",
+   
+
+
+
+ "s2":"______________________________________________________________________________________________________________________________________", 
+
+
+
+
+
+  
+"comment_2_1":"Включения обычной атрибуции без расшифровок и все прочего (как было раньше) ( aps_atr ) можно (aps_atr,organic) " ,  
+"comment_003":"деколируем json 'method':'fb_reffer' можна и 'method':'fb_reffer,organic'  " ,
+"comment_004":"Трафик идет на линк к которому полностью добавляеться найминг кампании от fb ",  
+"comm0005":"Пример нейминга key|/|sub_id_1={{campaign.id}}&sub_id_2={sub_id_2}&sub_id_3={sub_id_3}&sub_id_4={sub_id_4}&sub_id_5={sub_id_5}&sub_id_6={sub_id_6}&sub_id_7=SuperMoolah",
+"comment0006":"Ключ key", 
+  
+  
+  "key":"https://morewins.xyz/DjV43vMW?",
+  
+   
+   
+"comment8":"Вариант на случай апокалипсиса  'method':'planB'  (Весь трафик пойдет на URl)",
+"comment9":"*нужно использовать только один атрибут 'planB' ",
+"comment10":"Если в при aps_atr нейминг не будет иметь |/| будет браться этот url и к нему добавляться нейминг",
+
+ "url":"https://morewins.xyz/organic?",   
+   
+   
+   
+   
+"comment11":"Administation param",
+   "apsfly_id":"kRo5s64b2ZG7pRPRhujxDA",
+   "one_signal_id":"eff992ab-20ab-40df-8c27-d6b14e10b708",
+   "encode_key":"1979b253b2672502d14193769a157fa7fe909c44386ed03019804d8e8e6d6894"
+    
+}
