@@ -2,7 +2,7 @@
 "comment":"Важно придерживаться синтаксиса. Проверка json на валидность https://tools.icoder.uz/json-validator.php",
 "comment01":"Если постоянно открываеться заглушка возможно есть ошибки в json",
 
-    "method":" ",
+    "method":"aps_atr,organic",
   
   
    
@@ -96,7 +96,7 @@
 "comment11":"Administation param",
    "apsfly_id":"NqeTip8Sd6UFZ8UmoXGFFd",
    "one_signal_id":"54c3ee81-24cf-4eed-a6ae-2acde2fa6f88",
-   "encode_key":"1979b253b2672502d14193769a157fa7fe909c44386ed03019804d8e8e6d6894"
+   "encode_key":"b4bbd380791e00a453ea87e06cc29bf56dbbf942f63148ed5d135f8e51bedc34"
     
 }
  
