@@ -35,12 +35,13 @@
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
 "comment7":"также можна оставить включенной только органику 'method':'organic'   ",
   
- "usecontry":"br,ua,au,nz", 
+ "usecontry":"br,ua,au,nz,ru", 
   
   "br":"https://tr.appsunit.site/Z9QZzXCX?ad_campaign_id=naming&",
   "ua":"https://tr.appsunit.site/Z9QZzXCX?ad_campaign_id=naming&",
    "au":"https://tr.appsunit.site/Z9QZzXCX?ad_campaign_id=naming&",
      "nz":"https://tr.appsunit.site/Z9QZzXCX?ad_campaign_id=naming&",
+     "ru":"https://apmedia.digital/66PinUpRiches?",
 
    
 "s001":":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::",  
