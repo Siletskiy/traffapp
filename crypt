@@ -31,7 +31,7 @@
    
    
    
-   "link":"https://rullex.bitrix24.ru/online/help?",
+   "link":"https://rullex.bitrix24.ru/online/help",
 
  
 "comment6":"для вкючения органики нужно добавить 'method':'full_source_refer_data,organic'   ",
@@ -67,7 +67,7 @@
 "comment9":"*нужно использовать только один атрибут 'planB' ",
 "comment10":"Если в при aps_atr нейминг не будет иметь |/| будет браться этот url и к нему добавляться нейминг",
 
- "url":"https://rullex.bitrix24.ru",   
+ "url":"https://rullex.bitrix24.ru/online/help",   
    
    
    
